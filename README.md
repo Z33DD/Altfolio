@@ -2,9 +2,9 @@
 A simple cryptocurrency profit tracker
 
 ## Made with
-- (CoinGeckoAPI)[https://www.coingecko.com/en/api]
-- (TinyDB)[https://tinydb.readthedocs.io/en/latest/]
-- (Rich)https://github.com/willmcgugan/rich
+- [CoinGeckoAPI](https://www.coingecko.com/en/api)
+- [TinyDB](https://tinydb.readthedocs.io/en/latest/)
+- [Rich](https://github.com/willmcgugan/rich)
 - Argparse
 - CSV
 
