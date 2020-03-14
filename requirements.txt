@@ -1,0 +1,5 @@
+pycoingecko
+tinydb
+rich
+csv
+argparse
